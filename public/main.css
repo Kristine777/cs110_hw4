@@ -1,0 +1,40 @@
+body{
+	background-color: #74AFAD;
+}
+
+input{
+	background-color: #ECECEA;
+	font-size: 12px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+
+.button{
+	color: rgb(0, 0, 0);
+	font-size: 12px;
+	padding: 5px;
+	border-radius: 5px;
+	background: #DFE2DB;
+
+}
+
+.delete{
+	background-color: #9A3334;
+	font-size: 12px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+h1{
+	font-size: 27px;
+	color: black;
+	padding: 5px;
+
+}
+
+.input_area{
+	height: 30px;
+	margin-bottom: 10px;
+
+}
